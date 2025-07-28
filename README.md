@@ -1,4 +1,4 @@
-# llama3
+# Build AI-Chat using Ollama
 
 Ollama config:
 
